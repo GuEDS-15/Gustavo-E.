@@ -58,7 +58,7 @@ let m = "10"
 let n = Number(m)
 let o = n.toString()
 
-console.log(typeof m, typeof n, typeof o) //sera executado o m de number o n de string e o O n sei
+console.log(typeof m, typeof n, typeof o) //sera executado 
 
 
 
