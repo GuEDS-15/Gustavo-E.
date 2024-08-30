@@ -58,7 +58,7 @@ let m = "10"
 let n = Number(m)
 let o = n.toString()
 
-console.log(typeof m, typeof n, typeof o) //sera executado 
+console.log(typeof m, typeof n, typeof o) //sera executado "10", 10,"10"
 
 
 
@@ -68,7 +68,7 @@ let d = "Hello"
 let e = d
 d = "World"
 
-console.log(d, e) //vai imprimir o d de world e hello de E
+console.log(d, e) //vai imprimir world Hello
 
 
 
@@ -124,7 +124,7 @@ console.log(typeof nome1)
 console.log(typeof idade2)
 console.log("meu nome eh", nome1, "minha idade eh", idade2)
 //mostra o tipo do nome
-
+Nome:Gustavo Eleandro
 /*
 2. Suponha que temos duas variáveis var1 e var2, cada uma com um valor inicial
 
